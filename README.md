@@ -1,5 +1,5 @@
 # OpenCV3-Project-Base
-This project is a sample base project for *"OpenCV 3.1"* using *Static Linking*
+This project is a sample base project for **"OpenCV 3.1"** using **'Static Linking'**
 
 ## Tested
 - Android Studio 2.2
